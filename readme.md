@@ -10,3 +10,8 @@ Guides: [JoinCFE.com/blog](http://joincfe.com/blog)
 Why Serverless?
 
 
+
+
+## Lecture Code
+
+[10 - Activate pipenv and Create Django Project](../../tree/04d1f2ef0ea909d7cc8f0f0993ef18c54996c246)
