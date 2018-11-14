@@ -1,0 +1,9 @@
+{
+    "dev": {
+        "django_settings": "zapdj.settings",
+        "profile_name": "zappa",
+        "project_name": "try-zappa",
+        "runtime": "python3.6",
+        "s3_bucket": "zappa-ha1ey37pl"
+    }
+}
