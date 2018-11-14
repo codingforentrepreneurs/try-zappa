@@ -1,4 +1,4 @@
-Serverless Web Application with Zappa and AWS Lambda
+# Serverless Web Application with Zappa and AWS Lambda
 
 Guides: [JoinCFE.com/blog](http://joincfe.com/blog)
 
