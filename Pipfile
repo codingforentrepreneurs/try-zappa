@@ -11,6 +11,7 @@ awscli = "*"
 pipenv = "*"
 "psycopg2" = "*"
 zappa-django-utils = "*"
+"psycopg2-binary" = "*"
 
 [dev-packages]
 

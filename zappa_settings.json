@@ -9,6 +9,10 @@
         "timeout_seconds": 900, // 30 seconds
         "manage_roles": false,
         "role_name": "ZappaDjangoRole",
-        "role_arn": "arn:aws:iam::908424941159:role/ZappaDjangoRole"
+        "role_arn": "arn:aws:iam::908424941159:role/ZappaDjangoRole",
+        "vpc_config" : {
+            "SubnetIds": ["subnet-0d50d594c82596da8", "subnet-03f106a207e984a53", "subnet-0e4f299ed645e3aa9"],
+            "SecurityGroupIds": [ "sg-006c70707ce163a14" ]
+        }
     }
 }
