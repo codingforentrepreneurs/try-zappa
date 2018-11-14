@@ -8,6 +8,9 @@ zappa = "*"
 django = "*"
 django-rest-framework = "*"
 awscli = "*"
+pipenv = "*"
+"psycopg2" = "*"
+zappa-django-utils = "*"
 
 [dev-packages]
 
