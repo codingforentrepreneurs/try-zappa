@@ -1,9 +1,14 @@
 {
     "dev": {
+        "aws_region": "us-west-2",
         "django_settings": "zapdj.settings",
         "profile_name": "zappa",
         "project_name": "try-zappa",
         "runtime": "python3.6",
-        "s3_bucket": "zappa-ha1ey37pl"
+        "s3_bucket": "try-zappa",
+        "timeout_seconds": 900, // 30 seconds
+        "manage_roles": false,
+        "role_name": "ZappaDjangoRole",
+        "role_arn": "arn:aws:iam::908424941159:role/ZappaDjangoRole"
     }
 }
