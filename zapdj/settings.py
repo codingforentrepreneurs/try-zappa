@@ -23,9 +23,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'bqjirjc4fmiu7okl&t15@__@l$pg16n6u*^r$mxcq&%+qz(+&v'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ['a1hragaawi.execute-api.us-west-2.amazonaws.com', '.tryzappa.com']
+ALLOWED_HOSTS = ['24phrejind.execute-api.us-west-2.amazonaws.com', '.tryzappa.com']
 
 
 # Application definition

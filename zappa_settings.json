@@ -15,6 +15,7 @@
             "SecurityGroupIds": [ "sg-006c70707ce163a14" ]
         },
         "domain": "tryzappa.com",
-        "certificate_arn": "arn:aws:acm:us-east-1:908424941159:certificate/e5aabcf8-6eb6-4214-83de-d5c9492a869e"
+        "certificate_arn": "arn:aws:acm:us-east-1:908424941159:certificate/1f91ba19-da7f-4306-a0f5-70c9b02357eb",
+        "route53_enabled": false
     }
 }
