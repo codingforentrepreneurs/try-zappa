@@ -13,6 +13,8 @@
         "vpc_config" : {
             "SubnetIds": ["subnet-0d50d594c82596da8", "subnet-03f106a207e984a53", "subnet-0e4f299ed645e3aa9"],
             "SecurityGroupIds": [ "sg-006c70707ce163a14" ]
-        }
+        },
+        "domain": "tryzappa.com",
+        "certificate_arn": "arn:aws:acm:us-east-1:908424941159:certificate/e5aabcf8-6eb6-4214-83de-d5c9492a869e"
     }
 }
